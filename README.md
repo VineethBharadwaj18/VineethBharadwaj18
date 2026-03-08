@@ -1,5 +1,8 @@
-# 🚀 Vineeth Bharadwaj
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Vineeth%20Bharadwaj&fontSize=50&fontColor=000000&color=0:fbc2eb,100:a6c1ee&animation=blink"/>
+
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+React+Developer;Next.js+%7C+React+Native+Developer;Automation+with+n8n;Building+Scalable+Applications" />
